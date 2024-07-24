@@ -51,7 +51,11 @@ body{
 .search-box button{
     width: 46px;
     height: 46px;
-    background-color: #e6f5fb;
+    background-color: #12aeeb;
+    background-image:url("download.jpeg");
+    background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
     border-radius: 50%;
     cursor: pointer;
     font-size: 20px;
